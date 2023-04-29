@@ -38,4 +38,65 @@ fun main() {
     decrement--
     println("2-- = $decrement")
 
+    // Augmented assignment operators
+    // += (addition)
+    // -= (subtraction)
+    // *= (multiplication)
+    // /= (division)
+    // %= (modulus)
+
+    // Addition
+    var augmentedAddition:Int = 1
+    augmentedAddition += 1
+    println("1 += 1 = $augmentedAddition")
+
+    // Subtraction
+    var augmentedSubtraction:Int = 2
+    augmentedSubtraction -= 1
+    println("2 -= 1 = $augmentedSubtraction")
+
+    // Multiplication
+    var augmentedMultiplication:Int = 2
+    augmentedMultiplication *= 2
+    println("2 *= 2 = $augmentedMultiplication")
+
+    // Division
+    var augmentedDivision:Double = 4.0
+    augmentedDivision /= 2.0
+    println("4 /= 2 = $augmentedDivision")
+
+    // Modulus
+    var augmentedModulus:Int = 5
+    augmentedModulus %= 2
+    println("5 %= 2 = $augmentedModulus")
+
+    // Unary operators
+    // + (positive)
+    // - (negative)
+    // ! (not)
+    // ++ (increment)
+    // -- (decrement)
+
+    // Positive
+    val positive:Int = +1
+    println("+1 = $positive")
+
+    // Negative
+    val negative:Int = -1
+    println("-1 = $negative")
+
+    // Not
+    val not:Boolean = !true
+    println("!true = $not")
+
+    // Increment
+    var unaryIncrement:Int = 1
+    unaryIncrement++
+    println(unaryIncrement)
+
+    // Decrement
+    var unaryDecrement:Int = 2
+    unaryDecrement--
+    println(unaryDecrement)
+
 }
