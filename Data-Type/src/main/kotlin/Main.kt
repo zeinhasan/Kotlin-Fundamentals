@@ -46,7 +46,7 @@ fun main() {
     var socialSecurityNumber = 999_99_9999L
     var hexBytes = 0xFF_EC_DE_5E
     var bytes = 0b11010010_01101001_10010100_10010010
-    // Print
+    // Print statement
     println("\n") // print empty space
     println(oneMillion)
     println(creditCardNumber)
