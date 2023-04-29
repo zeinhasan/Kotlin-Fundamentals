@@ -6,3 +6,4 @@ Kotlin-Fundamentals
 3. Data Type Char
 4. Data Type Boolean
 5. Data Type String
+6. Variable
