@@ -8,3 +8,6 @@ Kotlin-Fundamentals
 5. Data Type String
 6. Variable
 7. Data Type Array
+8. Data Type Range
+9. Math Operation
+10. Comparison Operation
