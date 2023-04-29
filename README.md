@@ -7,3 +7,4 @@ Kotlin-Fundamentals
 4. Data Type Boolean
 5. Data Type String
 6. Variable
+7. Data Type Array
