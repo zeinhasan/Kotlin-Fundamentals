@@ -91,7 +91,7 @@ fun main() {
             is type1 -> statement1
             is type2 -> statement2
         }
-    """.trimIndent()
+    """
     val FinalExam5: Any = 80
     when (FinalExam5) {
         is String -> println("String")
