@@ -12,3 +12,5 @@ Kotlin-Fundamentals
 9. Math Operation
 10. Comparison Operation
 11. Boolean Operators
+12. If Expression
+13. When Expression
